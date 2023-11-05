@@ -1,0 +1,25 @@
+site_name: Adèkora Docs
+site_url: https://example.com/
+theme:
+  name: null
+  custom_dir: 'cinder'
+nav:
+  - Home: 'index.md'
+  - Phonology:
+    - 'Main Page': 'phonology/main.md'
+    - 'Consonants': 'phonology/consonants.md'
+    - 'Vowels': 'phonology/vowels.md'
+  - 'Writing System':
+    - 'Main Page': 'writing/main.md'
+  - Grammar:
+    - 'Main Page': 'grammar/main.md'
+  - Vocabulary:
+    - 'Main Page': 'vocabulary/main.md'
+  - Resources:
+    - 'IPA Chart': 'resources/ipa_chart.md'
+    - 'Mkdocs test page': 'resources/test.md'
+markdown_extensions:
+  - toc:
+      permalink: True
+      baselevel: 1
+      separator: '-'
