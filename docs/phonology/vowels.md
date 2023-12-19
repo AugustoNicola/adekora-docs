@@ -91,6 +91,5 @@ Adèkora has the following 7 monophthongs and 6 diphthongs:
 - <x>[ o̞ ]</x> as in "Camb**o**dia", "l**o**cura"
 - <x>[ ɛ ]</x> as in "dr**e**ss", -
 - <x>[ ä ]</x> as in "tr**a**p", "m**a**rca"
-- <x>[ ä ]</x> as in "tr**a**p", "m**a**rca"
 - <x>[ ɑ ]</x> as in "p**a**lm", -
 
