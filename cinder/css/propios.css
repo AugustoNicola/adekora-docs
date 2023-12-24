@@ -1,6 +1,6 @@
 @font-face {
 	font-family: 'adekora';
-	src: url('../fonts/adekora2.otf') format('opentype');
+	src: url('../fonts/adekora.otf') format('opentype');
 }
 
 ws {
@@ -178,3 +178,38 @@ x {
 	grid-template-columns: auto auto;
 	justify-content: center;
 }
+
+.writing-numbering-example-table th {
+	display: flex;
+	justify-content: center;
+	align-items: center;
+}
+
+.writing-numbering-example-table th x {
+	font-size: 2.75rem;
+}
+
+.writing-numbering-example-table tr.headers th {
+	text-align: center;
+	font-size: 1.5rem;
+}
+
+.writing-numbering-example-table tr.data th {
+	display: flex;
+	align-items: center;
+	justify-content: start;
+	font-size: 1.5rem;
+}
+
+.writing-numbering-example-table tr {
+	display: grid;
+	grid-template-columns: repeat(8, 12.5%);
+}
+
+.writing-numbering-example-table tr td {
+	display: grid;
+	column-gap: 1.5rem;
+	grid-template-columns: auto auto;
+	justify-content: center;
+}
+

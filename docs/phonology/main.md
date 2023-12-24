@@ -94,49 +94,42 @@ The phonology of Adèkora consists of **14 consonants**, **7 monophthongs** and 
 			<th>Central</th>
 			<th>Back</th>
 		</tr>
-		
 		<tr class="data">
 			<th>Close</th>
 			<td><x>i</x> <x></x></td>
 			<td></td>
 			<td><x></x> <x>u</x></td>
 		</tr>
-		
 		<tr class="data">
 			<th>Near-close</th>
 			<td><x class="no-see">f</x> <x></x></td>
 			<td></td>
 			<td></td>
 		</tr>
-		
 		<tr class="data">
 			<th>Close-mid</th>
 			<td><x class="no-see">f</x> <x></x></td>
 			<td></td>
 			<td></td>
 		</tr>
-		
 		<tr class="data">
 			<th>Mid</th>
 			<td><x>e̞</x> <x></x></td>
 			<td></td>
 			<td><x></x> <x>o̞</x></td>
 		</tr>
-		
 		<tr class="data">
 			<th>Open-mid</th>
 			<td><x>ɛː</x> <x></x></td>
 			<td></td>
 			<td></td>
 		</tr>
-		
 		<tr class="data">
 			<th>Near-open</th>
 			<td><x class="no-see">f</x> <x></x></td>
 			<td></td>
 			<td></td>
 		</tr>
-		
 		<tr class="data">
 			<th>Open</th>
 			<td></td>
@@ -148,17 +141,14 @@ The phonology of Adèkora consists of **14 consonants**, **7 monophthongs** and 
 		<tr class="first-row">
 			<th>Diphthongs</th>
 		</tr>
-		
 		<tr class="data">
 			<td><x>äi</x></td>
 			<td><x>äu</x></td>
 		</tr>
-		
 		<tr class="data">
 			<td><x>e̞i</x></td>
 			<td><x>e̞u</x></td>
 		</tr>
-		
 		<tr class="data">
 			<td><x>o̞i</x></td>
 			<td><x>o̞u</x></td>

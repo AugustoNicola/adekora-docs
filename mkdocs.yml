@@ -11,6 +11,11 @@ nav:
     - 'Vowels': 'phonology/vowels.md'
   - 'Writing System':
     - 'Main Page': 'writing/main.md'
+    - 'Letters': 'writing/letters.md'
+    - 'Numbering': 'writing/numbering.md'
+    - 'Punctuation': 'writing/punctuation.md'
+    - 'Localizers': 'writing/localizers.md'
+    - 'Font': 'writing/font.md'
   - Grammar:
     - 'Main Page': 'grammar/main.md'
   - Vocabulary:
