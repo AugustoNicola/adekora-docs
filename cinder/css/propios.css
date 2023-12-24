@@ -1,3 +1,33 @@
+@font-face {
+	font-family: 'adekora';
+	src: url('../fonts/adekora2.otf') format('opentype');
+}
+
+ws {
+	font-family: 'adekora';
+	font-size: 2.3rem;
+}
+
+wm {
+	font-family: 'adekora';
+	font-size: 3rem;
+}
+
+wl {
+	font-family: 'adekora';
+	font-size: 3.5rem;
+}
+
+wxl {
+	font-family: 'adekora';
+	font-size: 5rem;
+}
+
+wxxl {
+	font-family: 'adekora';
+	font-size: 8rem;
+}
+
 x {
 	font-weight: normal;
 	color: #0c0c0c;
@@ -113,4 +143,38 @@ x {
 
 .no-see {
 	visibility: hidden;
+}
+
+.writing-all-characters-table th {
+	display: flex;
+	justify-content: center;
+	align-items: center;
+}
+
+.writing-all-characters-table th x {
+	font-size: 2.75rem;
+}
+
+.writing-all-characters-table tr.headers th {
+	text-align: center;
+	font-size: 1.5rem;
+}
+
+.writing-all-characters-table tr.data th {
+	display: flex;
+	align-items: center;
+	justify-content: start;
+	font-size: 1.5rem;
+}
+
+.writing-all-characters-table tr {
+	display: grid;
+	grid-template-columns: repeat(8, 12.5%);
+}
+
+.writing-all-characters-table tr td {
+	display: grid;
+	column-gap: 1.5rem;
+	grid-template-columns: auto auto;
+	justify-content: center;
 }
