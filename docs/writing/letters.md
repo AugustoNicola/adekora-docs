@@ -41,3 +41,64 @@ For example, < <wm>è</wm> > ( /**è**/ ) is considered a *determinate vowel*, a
 		</tr>
 	</table>
 </div>
+
+### Lexicographic Ordering
+
+The lexicographic (also known as alphabetical) order of the Adèkora Letters is as follows:
+
+<table class="writing-all-characters-table">
+	<tr>
+		<td><wl>è</wl></td>
+		<td><wl>k</wl></td>
+		<td><wl>p</wl></td>
+		<td><wl>u</wl></td>
+		<td><wl>r</wl></td>
+		<td><wl>rr</wl></td>
+		<td><wl>i</wl></td>
+	</tr>
+	<tr>
+		<td><x>è</x></td>
+		<td><x>k</x></td>
+		<td><x>p</x></td>
+		<td><x>u</x></td>
+		<td><x>r</x></td>
+		<td><x>ŕ</x></td>
+		<td><x>i</x></td>
+	</tr>
+	<tr>
+		<td><wl>zh</wl></td>
+		<td><wl>ñ</wl></td>
+		<td><wl>à</wl></td>
+		<td><wl>m</wl></td>
+		<td><wl>ch</wl></td>
+		<td><wl>a</wl></td>
+		<td><wl>x</wl></td>
+	</tr>
+	<tr>
+		<td><x>zh</x></td>
+		<td><x>ñ</x></td>
+		<td><x>à</x></td>
+		<td><x>m</x></td>
+		<td><x>ch</x></td>
+		<td><x>a</x></td>
+		<td><x>x</x></td>
+	</tr>
+	<tr>
+		<td><wl>n</wl></td>
+		<td><wl>l</wl></td>
+		<td><wl>b</wl></td>
+		<td><wl>o</wl></td>
+		<td><wl>z</wl></td>
+		<td><wl>d</wl></td>
+		<td><wl>e</wl></td>
+	</tr>
+	<tr>
+		<td><x>n</x></td>
+		<td><x>l</x></td>
+		<td><x>b</x></td>
+		<td><x>o</x></td>
+		<td><x>z</x></td>
+		<td><x>d</x></td>
+		<td><x>e</x></td>
+	</tr>
+</table>
