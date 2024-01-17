@@ -3,7 +3,7 @@
 
 ### Syllable Structure
 
-Adèkora's syllables follow the syllabic pattern **[ (C)(C)(C) ][ V ][ (C) ]**, with the onset, nucleus and coda delimitated by brackets. This means that all syllables have:
+Adèkora's syllables follow the [syllabic pattern](https://en.wikipedia.org/wiki/Syllable#Components) **[ (C)(C)(C) ][ V ][ (C) ]**, with the onset, nucleus and coda delimitated by brackets. This means that all syllables have:
 
 * From zero to three consonants as the **onset**
 * Exactly one vowel (in the form of a monophthong or diphthong) as the **nucleus**
@@ -41,3 +41,9 @@ Any single one of the 14 consonants can be used as the coda. However, certain ru
 In general, if the same phoneme appears next to itself as both a coda and an onset, it is [geminated](https://en.wikipedia.org/wiki/Gemination) such that a single geminated sound remains, acting as an [ambisyllabic](https://en.wiktionary.org/wiki/ambisyllabicity#:~:text=ambisyllabicity%20(uncountable),upper"%20or%20"button".) phoneme. For example, *kil-leñ* would be converted to *kileñ* (*/kilːeɲ/*), which can be separated into syllables as both *kil-eñ* and *ki-leñ* (though the former is more commonly used).
 
 The gemination is also used to cover cases where <x>ŕ</x> and <x>r</x> appear next to each other. In such situations, a geminated <x>ŕ</x> remains. For example, *kar-ŕox* would convert to *kaŕox*.
+
+### Syllable Separation
+
+Syllable separation is not used to convey semantical difference. For example, there can only be **one** word that is pronounced as *kaxan*, and it may be separated into syllables as *kax-an* or *ka-xan*. Alhtough the default is for the shared consonant to fall in the onset (like in *ka-xan*), the rules of syllable separation can have exceptions (especially when applying many affixes to the same word), which is why the separation is explicited using notation.
+
+Since Adèkora's [writing system](../writing/main.md) defines that syllables are explicitly delimited using a special character, this distintcion is made clear when writing the word (for *kaxan*, both possibilities are written <ws>kax'an</ws> and <ws>ka'xan</ws>, respectivelly).
