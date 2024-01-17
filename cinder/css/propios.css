@@ -213,3 +213,28 @@ x {
 	justify-content: center;
 }
 
+.pronouns-table tbody {
+	text-align: center;
+	font-size: 1.75rem;
+}
+
+.pronouns-table .header {
+	font-weight: bold;
+}
+
+.pronouns-table .left {
+	text-align: initial;
+}
+
+.common-table tbody {
+	text-align: center;
+	font-size: 1.75rem;
+}
+
+.common-table .header {
+	font-weight: bold;
+}
+
+.common-table .left {
+	text-align: initial;
+}

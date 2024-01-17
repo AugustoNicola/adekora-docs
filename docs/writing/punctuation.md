@@ -4,9 +4,9 @@
 ### Punctuation Marks
 Aside from standard characters, Adèkora has punctuation marks for the following purposes:
 
-- *TODO_SYLLABLE_CLOSE*, to separate syllables (from the same word), with < <wl>'</wl> >.
-- *TODO_WORD_CLOSE*, to separate words, with < <wl>&hairsp; &hairsp;</wl> >.
-- *TODO_SENTENCE_CLOSE*, to end sentences, with < <wl>.</wl> >.
+- *sukañela*, to separate syllables (from the same word), with < <wl>'</wl> >.
+- *sukañikal*, to separate words, with < <wl>&hairsp; &hairsp;</wl> >.
+- *sukumela*, to end sentences, with < <wl>.</wl> >.
 
 As an example, consider the following text:
 
@@ -16,7 +16,7 @@ The extract has two sentences. The first sentence has three words, which have fo
 
 ### Style
 
-Adèkora's writing system provides a glyph-dense representation with narrow spaces. Unlike most roman-based writing systems, sentences are not separated by some whitespace. In Adèkora, only the *TODO_SENTENCE_CLOSE* is necessary to separate sentences.
+Adèkora's writing system provides a glyph-dense representation with narrow spaces. Unlike most roman-based writing systems, sentences are not separated by some whitespace. In Adèkora, only the *sukumela* is necessary to separate sentences.
 
 Paragraphs are separated by a newline; indentation when starting a new paragraph is not common.
 

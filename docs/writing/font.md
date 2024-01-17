@@ -6,7 +6,7 @@ Every glyph representing a phoneme that uses only one latin character can be typ
 
 The punctuation marks have their designated characters: the syllable delimiter is the single-quote < **'** >, the word delimiter is the common whitespace (such as when pressing spacebar), and the sentence delimiter is the standard period < **.** >. This gives the typing in the font a feeling similar to English and many common languages, since the proccess of separating words and sentences is the same.
 
-Localizers are mapped to common symbols: *TODO_CLOSE* is < **!** >, *TODO_FAR_VISIBLE* is < **"** >, *TODO_FAR_NOT_VISIBLE* is < **#** >, *TODO_LIFE* is < **$** >, *TODO_DEATH* is < **%** >, and *TODO_UNKNOWN* is < **&** >.
+Localizers are mapped to common symbols: *kemàlizal* is < **!** >, *zhimàlizal* is < **"** >, *akemàlizal* is < **#** >, *zhikozal* is < **$** >, *umizal* is < **%** >, and *unokizal* is < **&** >.
 
 The digits from *zero* to *seven* are mapped to their corresponding standard digit in base-10.
 

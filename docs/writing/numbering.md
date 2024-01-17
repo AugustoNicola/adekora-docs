@@ -12,7 +12,7 @@ Negative integers can be represented by suffixing the digits with the syllable T
 
 ### Fractional Numbers
 
-Numbers with a decimal point can be represented by using the syllabic separator mark (TODO_WRITING_SYSTEM_SYLLABLE_SEPARATOR, literally < <wm>'</wm> >) very similarly to the decimal point in common mathematical notation. For example, the decimal number 23.25 would be represented as < <wm>27'2</wm> >  (NOT the characters for < **23.25** >, but for < **27.2** >, since the translation to base 8 is performed).
+Numbers with a decimal point can be represented by using the syllabic separator mark (*sukañela*, < <wm>'</wm> >) very similarly to the decimal point in common mathematical notation. For example, the decimal number 23.25 would be represented as < <wm>27'2</wm> >  (NOT the characters for < **23.25** >, but for < **27.2** >, since the translation to base 8 is performed).
 
 This system does not include a way of dealing with periodic numbers; the common approach is to use a fixed number of digits of precision. Therefore, fractions such as one third (1/3, in base 8 written as < **0.252525...** >) would be written as < <wm>0'2525</wm> > (i.e. < **0.2525** >). 
 

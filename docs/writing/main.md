@@ -1,6 +1,6 @@
 # Adèkora Writing System
 
-Adèkora's main writing system (called TODO_WRITING_SYSTEM) is an **alphabet-based** system, in which each phoneme has its own [character](#table-of-characters) (called TODO_WRITING_SYSTEM_CHARACTER).
+Adèkora's main writing system (called *aŕèkuxiro*) is an **alphabet-based** system, in which each phoneme has its own [character](#table-of-characters) (called *làmal*).
 
 This system expresses **left-to-right and top-to-bottom directionality**, just like English. There are **35 characters**, divided as **21 [letters](letters.md)** (14 consonants and 7 vocals), **8 [digits](numbering.md)**, and **6 [localizers](localizers.md)**. There are also **3 [punctuation marks](punctuation.md)**.
 
