@@ -9,6 +9,8 @@ nav:
     - 'Main Page': 'phonology/main.md'
     - 'Consonants': 'phonology/consonants.md'
     - 'Vowels': 'phonology/vowels.md'
+    - 'Phonotactics': 'phonology/phonotactics.md'
+    - 'Allophony': 'phonology/allophony.md'
   - 'Writing System':
     - 'Main Page': 'writing/main.md'
     - 'Letters': 'writing/letters.md'
