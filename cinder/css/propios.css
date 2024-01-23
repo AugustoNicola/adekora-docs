@@ -238,3 +238,14 @@ x {
 .common-table .left {
 	text-align: initial;
 }
+
+.center {
+	text-align: center;
+}
+
+.showcase {
+	font-weight: 600;
+	font-size: 2rem;
+	margin-top: 2rem;
+	margin-bottom: 2rem;
+}
