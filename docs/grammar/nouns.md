@@ -51,11 +51,11 @@ TODO add example.
 
 The [Gender System](https://en.wikipedia.org/wiki/Grammatical_gender) of Adèkora partitions all nouns into five distinct categories:
 
-* The **Animate** gender: people and most animals.
-* The **Natural** gender: plants, parts of the body, celestial objects, some living beings.
-* The **Artificial** gender: man-made objects and concepts, tools, clothing, culture.
-* The **Abstract** gender: intangible ideas, invisible concepts.
-* The **Geographical** gender: places and their names.
+* The **Animate** gender (G_AN): people and most animals.
+* The **Natural** gender (G_NA): plants, parts of the body, celestial objects, some living beings.
+* The **Artificial** gender (G_AR): man-made objects and concepts, tools, clothing, culture.
+* The **Abstract** gender (G_AB): intangible ideas, invisible concepts.
+* The **Geographical** gender (G_GE): places and their names.
 
 
 Unlike some languages with gender that make an arbitrary classification, Adèkora's genders attempt to categorize the entire noun space in a methodical manner.
@@ -284,7 +284,7 @@ Noun articles have the following structure, marked as specified in the following
 		<td>-du-</td>
 		<td>-dem-</td>
 		<td>-dar-</td>
-		<td>-mid-</td>
+		<td>-mi-</td>
 	</tr>
 </table>
 

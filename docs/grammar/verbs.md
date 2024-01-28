@@ -63,7 +63,7 @@ The [**Future Tense**](https://en.wikipedia.org/wiki/Future_tense) conveys that 
 
 ### Aspect
 
-The [Aspect](https://en.wikipedia.org/wiki/Grammatical_aspect) of the verb gives information on how it extends over time, which helps present the action. Aspect is very related to [Tense](#tense), and every combination of Tense-Aspect has a specific meaning. Aspect is marked by the use of a suffix according to the following table.
+The [Aspect](https://en.wikipedia.org/wiki/Grammatical_aspect) of the verb gives information on **how it extends over time**, which helps present the action. Aspect is very related to [Tense](#tense), and every combination of Tense-Aspect has a specific meaning. Aspect is marked by the use of a suffix according to the following table.
 
 <table class="common-table">
 	<tr>
@@ -81,7 +81,7 @@ The [Aspect](https://en.wikipedia.org/wiki/Grammatical_aspect) of the verb gives
 		<td><em>-zhon</em></td>
 		<td>∅</td>
 		<td><em>-pon</em></td>
-		<td><em>-pail</em></td>
+		<td><em>-pai</em></td>
 	</tr>
 	<tr>
 		<td class="header left">Gloss Abbr.</td>
@@ -150,7 +150,7 @@ The [Mood](https://en.wikipedia.org/wiki/Grammatical_mood) of the verb expresses
 	<tr>
 		<td class="header left">Affix</td>
 		<td>∅</td>
-		<td><em>chil-</em></td>
+		<td><em>chol-</em></td>
 		<td><em>zhu-</em></td>
 		<td><em>meñ-</em></td>
 	</tr>
@@ -213,49 +213,49 @@ The [Evidentiality](https://en.wikipedia.org/wiki/Evidentiality) of the verb spe
 	<tr>
 		<td class="header left no-break">Canonical</td>
 		<td class="no-break"><em>-boi</em></td>
-		<td class="no-break">EV.CAN</td>
+		<td class="no-break">EV_CAN</td>
 		<td>Commonly known to be true, obvious, etc.</td>
 	</tr>
 	<tr>
 		<td class="header left no-break">Participative</td>
 		<td class="no-break"><em>-mei</em></td>
-		<td class="no-break">EV.PAR</td>
+		<td class="no-break">EV_PAR</td>
 		<td>The speaker participated in the action</td>
 	</tr>
 	<tr>
 		<td class="header left no-break">Direct</td>
 		<td class="no-break"><em>-knei</em></td>
-		<td class="no-break">EV.DIR</td>
+		<td class="no-break">EV_DIR</td>
 		<td>The speaker sensed the action directly (e.g. saw, felt, heard, etc.)</td>
 	</tr>
 	<tr>
 		<td class="header left no-break">Trusted Reportative</td>
 		<td class="no-break"><em>-er</em></td>
-		<td class="no-break">EV.TR.REP</td>
+		<td class="no-break">EV_TR_REP</td>
 		<td>The speaker indirectly obtained information about the action via a reputable source</td>
 	</tr>
 	<tr>
 		<td class="header left no-break">Doubtful Reportative</td>
 		<td class="no-break"><em>-kner</em></td>
-		<td class="no-break">EV.DF.REP</td>
+		<td class="no-break">EV_DF_REP</td>
 		<td>The speaker indirectly obtained information about the action via a questionable source</td>
 	</tr>
 	<tr>
 		<td class="header left no-break">Trusted Logical</td>
 		<td class="no-break"><em>-zhel</em></td>
-		<td>EV.TR.LOG</td>
+		<td>EV_TR_LOG</td>
 		<td>The speaker came to the conclusion that the action is real and is confident of its veracity</td>
 	</tr>
 	<tr>
 		<td class="header left no-break">Doubtful Logical</td>
 		<td class="no-break"><em>-pŕzhel</em></td>
-		<td class="no-break">EV.DF.LOG</td>
+		<td class="no-break">EV_DF_LOG</td>
 		<td>The speaker speculates/guesses the action</td>
 	</tr>
 	<tr>
 		<td class="header left no-break">Rhetorical</td>
 		<td class="no-break"><em>-dŕzhai</em></td>
-		<td class="no-break">EV.RT</td>
+		<td class="no-break">EV_RT</td>
 		<td>The speaker does not believe in the veracity of the action</td>
 	</tr>
 </table>
@@ -282,7 +282,7 @@ Adèkora morphologically conjugates Verbs in order to mark for [Tense](#tense), 
 	</tr>
 	<tr>
 		<td>∅</td>
-		<td><em>chil-</em></td>
+		<td><em>chol-</em></td>
 		<td><em>zhu-</em></td>
 		<td><em>meñ-</em></td>
 	</tr>
@@ -344,7 +344,7 @@ Adèkora morphologically conjugates Verbs in order to mark for [Tense](#tense), 
 		<td><em>-zhon</em></td>
 		<td>∅</td>
 		<td><em>-pon</em></td>
-		<td><em>-pail</em></td>
+		<td><em>-pai</em></td>
 	</tr>
 </table>
 
