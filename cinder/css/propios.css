@@ -239,6 +239,10 @@ x {
 	text-align: initial;
 }
 
+.common-table .no-break {
+	white-space: nowrap;
+}
+
 .center {
 	text-align: center;
 }

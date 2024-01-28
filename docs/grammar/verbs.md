@@ -5,7 +5,7 @@ This section explains concepts core concepts related to verbs, such as agreement
 
 ### Tense
 
-The [Tense](https://en.wikipedia.org/wiki/Grammatical_tense) of the verb **situates the verb in time**. Adèkora has a simple tense system, having only Past, Present and Future. Tense is marked by the use of a suffix according to the following table.
+The [Tense](https://en.wikipedia.org/wiki/Grammatical_tense) of the verb **situates the verb in time**. Adèkora has a simple tense system, having only Past, Present and Future. Tense agrees with the [Gender](nouns.md#gender) of the subject (or with the Abstract Gender if the verb is [avalent](#valency)), and is marked by the use of a suffix according to the following table.
 
 <table class="common-table">
 	<tr>
@@ -18,16 +18,34 @@ The [Tense](https://en.wikipedia.org/wiki/Grammatical_tense) of the verb **situa
 		<td class="header">Future</td>
 	</tr>
 	<tr>
-		<td class="header left">Affix</td>
-		<td><em>-xim</em></td>
+		<td class="header left">Animate</td>
+		<td><em>-zham</em></td>
 		<td>∅</td>
-		<td><em>-chen</em></td>
+		<td><em>-zhen</em></td>
 	</tr>
 	<tr>
-		<td class="header left">Gloss Abbr.</td>
-		<td>PST</td>
-		<td>PRS</td>
-		<td>FUT</td>
+		<td class="header left">Natural</td>
+		<td><em>-xam</em></td>
+		<td>∅</td>
+		<td><em>-xen</em></td>
+	</tr>
+	<tr>
+		<td class="header left">Artificial</td>
+		<td><em>-ñam</em></td>
+		<td>∅</td>
+		<td><em>-ñen</em></td>
+	</tr>
+	<tr>
+		<td class="header left">Abstract</td>
+		<td><em>-zam</em></td>
+		<td>∅</td>
+		<td><em>-zen</em></td>
+	</tr>
+	<tr>
+		<td class="header left">Geographical</td>
+		<td><em>-mam</em></td>
+		<td>∅</td>
+		<td><em>-men</em></td>
 	</tr>
 </table>
 
@@ -133,7 +151,7 @@ The [Mood](https://en.wikipedia.org/wiki/Grammatical_mood) of the verb expresses
 		<td class="header left">Affix</td>
 		<td>∅</td>
 		<td><em>chil-</em></td>
-		<td><em>zhuk-</em></td>
+		<td><em>zhu-</em></td>
 		<td><em>meñ-</em></td>
 	</tr>
 	<tr>
@@ -173,7 +191,9 @@ When used with the **Future Tense**, it expresses a desire for the action or sta
 
 #### Interrogative Mood
 
-The [**Interrogative Mood**](https://en.wikipedia.org/wiki/Interrogative) is used exclusively in interrogative clauses to indicate that the action or state conveyed by the verb is not actually stated, but is expressed as a request to the listener to confirm the veracity of the verb. Its combination with the Tenses and Aspects is very similar to that of the Indicative Case, but with the question-like meaning aggregated.
+The [**Interrogative Mood**](https://en.wikipedia.org/wiki/Interrogative) is used exclusively in interrogative clauses to indicate that the action or state conveyed by the verb is not actually stated, but is expressed as a request to the listener to confirm the veracity of the verb. Its combination with the Tenses and Aspects is very similar to that of the Indicative Case, but with the question-like meaning aggregated. This means that questions can give focus to the duration or completeness of the verb being asked, in order to place the interrogative clause in context with other actions at the time.
+
+TODO add example.
 
 
 ### Evidentiality
@@ -187,55 +207,55 @@ The [Evidentiality](https://en.wikipedia.org/wiki/Evidentiality) of the verb spe
 	<tr>
 		<td class="header"></td>
 		<td class="header">Affix</td>
-		<td class="header">Gloss Abbr.</td>
+		<td class="header no-break">Gloss Abbr.</td>
 		<td class="header">Usage</td>
 	</tr>
 	<tr>
-		<td class="header left">Canonical</td>
-		<td><em>-boi</em></td>
-		<td>EV.CAN</td>
+		<td class="header left no-break">Canonical</td>
+		<td class="no-break"><em>-boi</em></td>
+		<td class="no-break">EV.CAN</td>
 		<td>Commonly known to be true, obvious, etc.</td>
 	</tr>
 	<tr>
-		<td class="header left">Participative</td>
-		<td><em>-mei</em></td>
-		<td>EV.PAR</td>
+		<td class="header left no-break">Participative</td>
+		<td class="no-break"><em>-mei</em></td>
+		<td class="no-break">EV.PAR</td>
 		<td>The speaker participated in the action</td>
 	</tr>
 	<tr>
-		<td class="header left">Direct</td>
-		<td><em>-knei</em></td>
-		<td>EV.DIR</td>
+		<td class="header left no-break">Direct</td>
+		<td class="no-break"><em>-knei</em></td>
+		<td class="no-break">EV.DIR</td>
 		<td>The speaker sensed the action directly (e.g. saw, felt, heard, etc.)</td>
 	</tr>
 	<tr>
-		<td class="header left">Trusted Reportative</td>
-		<td><em>-er</em></td>
-		<td>EV.TR.REP</td>
+		<td class="header left no-break">Trusted Reportative</td>
+		<td class="no-break"><em>-er</em></td>
+		<td class="no-break">EV.TR.REP</td>
 		<td>The speaker indirectly obtained information about the action via a reputable source</td>
 	</tr>
 	<tr>
-		<td class="header left">Doubtful Reportative</td>
-		<td><em>-kner</em></td>
-		<td>EV.DF.REP</td>
+		<td class="header left no-break">Doubtful Reportative</td>
+		<td class="no-break"><em>-kner</em></td>
+		<td class="no-break">EV.DF.REP</td>
 		<td>The speaker indirectly obtained information about the action via a questionable source</td>
 	</tr>
 	<tr>
-		<td class="header left">Trusted Logical</td>
-		<td><em>-zhel</em></td>
+		<td class="header left no-break">Trusted Logical</td>
+		<td class="no-break"><em>-zhel</em></td>
 		<td>EV.TR.LOG</td>
 		<td>The speaker came to the conclusion that the action is real and is confident of its veracity</td>
 	</tr>
 	<tr>
-		<td class="header left">Doubtful Logical</td>
-		<td><em>-pŕzhel</em></td>
-		<td>EV.DF.LOG</td>
+		<td class="header left no-break">Doubtful Logical</td>
+		<td class="no-break"><em>-pŕzhel</em></td>
+		<td class="no-break">EV.DF.LOG</td>
 		<td>The speaker speculates/guesses the action</td>
 	</tr>
 	<tr>
-		<td class="header left">Rhetorical</td>
-		<td><em>-dŕzhai</em></td>
-		<td>EV.RT</td>
+		<td class="header left no-break">Rhetorical</td>
+		<td class="no-break"><em>-dŕzhai</em></td>
+		<td class="no-break">EV.RT</td>
 		<td>The speaker does not believe in the veracity of the action</td>
 	</tr>
 </table>
@@ -252,20 +272,63 @@ Adèkora morphologically conjugates Verbs in order to mark for [Tense](#tense), 
 
 <table class="common-table">
 	<tr>
-		<td class="header" colspan="3">Verb Tense Suffixes</td>
+		<td class="header" colspan="4">Verb Mood Prefixes</td>
 	</tr>
 	<tr>
+		<td class="header">Indicative</td>
+		<td class="header">Subjunctive</td>
+		<td class="header">Optative</td>
+		<td class="header">Interrogative</td>
+	</tr>
+	<tr>
+		<td>∅</td>
+		<td><em>chil-</em></td>
+		<td><em>zhu-</em></td>
+		<td><em>meñ-</em></td>
+	</tr>
+</table>
+
+<table class="common-table">
+	<tr>
+		<td class="header" colspan="4">Verb Tense Suffixes</td>
+	</tr>
+	<tr>
+		<td class="header"></td>
 		<td class="header">Past</td>
 		<td class="header">Present</td>
 		<td class="header">Future</td>
 	</tr>
 	<tr>
-		<td><em>-xim</em></td>
+		<td class="header left">Animate</td>
+		<td><em>-zham</em></td>
 		<td>∅</td>
-		<td><em>-chen</em></td>
+		<td><em>-zhen</em></td>
+	</tr>
+	<tr>
+		<td class="header left">Natural</td>
+		<td><em>-xam</em></td>
+		<td>∅</td>
+		<td><em>-xen</em></td>
+	</tr>
+	<tr>
+		<td class="header left">Artificial</td>
+		<td><em>-ñam</em></td>
+		<td>∅</td>
+		<td><em>-ñen</em></td>
+	</tr>
+	<tr>
+		<td class="header left">Abstract</td>
+		<td><em>-zam</em></td>
+		<td>∅</td>
+		<td><em>-zen</em></td>
+	</tr>
+	<tr>
+		<td class="header left">Geographical</td>
+		<td><em>-mam</em></td>
+		<td>∅</td>
+		<td><em>-men</em></td>
 	</tr>
 </table>
-
 
 <table class="common-table">
 	<tr>
@@ -287,25 +350,7 @@ Adèkora morphologically conjugates Verbs in order to mark for [Tense](#tense), 
 
 <table class="common-table">
 	<tr>
-		<td class="header" colspan="4">Verb Mood Prefixes</td>
-	</tr>
-	<tr>
-		<td class="header">Indicative</td>
-		<td class="header">Subjunctive</td>
-		<td class="header">Optative</td>
-		<td class="header">Interrogative</td>
-	</tr>
-	<tr>
-		<td>∅</td>
-		<td><em>chil-</em></td>
-		<td><em>zhuk-</em></td>
-		<td><em>meñ-</em></td>
-	</tr>
-</table>
-
-<table class="common-table">
-	<tr>
-		<td class="header" colspan="4">Verb Evidentiality Prefixes</td>
+		<td class="header" colspan="4">Verb Evidentiality Suffixes</td>
 	</tr>
 	<tr>
 		<td class="header">Canonical</td>
@@ -333,4 +378,45 @@ Adèkora morphologically conjugates Verbs in order to mark for [Tense](#tense), 
 	</tr>
 </table>
 
-TODO checkear overlap de affixes, arreglar espaciado tabla evidentiality, escribir Valency (ver notas!), escribir mas sobre Interrogative mood?
+### Valency
+
+Like in many languages, each of Adèkora's verbs has a [valency](https://en.wikipedia.org/wiki/Valency_(linguistics)) associated, which counts the number of arguments that the verb needs to have in order to be grammatically correct. The following valency types are present in the language:
+
+- **Avalent** verbs take no argument whatsoever, so there is no Subject nor Object in the sentence. TODO add example with "rain".
+- **Monovalent** verbs (also called **Intransitive** verbs) take only one argument - the Subject - and no more. It is a common valency for stative verbs and some actions. TODO add example.
+- **Divalent** verbs (also called **Transitive** verbs) take two arguments - the Subject and Direct Object - and no more or less. It is a common valency for many actions. TODO add example.
+- **Trivalent** verbs (also called **Bitransitive** verbs) take three arguments - the Subject, the Direct Object and the Indirect Object. This valency is rather uncommon, reserved primarily for actions such as TODO add example give.
+
+Some verbs can also be **Ambivalent**, in the sense that they are gramatically correct with multiple valencies. TODO add example.
+
+The valency of a verb needs to be respected in order to convey a grammatically significant meaning. However, Adèkora features common [valency-changing](https://en.wikipedia.org/wiki/Valency_(linguistics)#Changing_valency) operations that can help adapt the valency of verbs to simplify sentences.
+
+#### Passive Voice
+
+The [passive voice](https://en.wikipedia.org/wiki/Passive_voice) is a common alteration of verbs that is also present in English. This operation transforms a **transitive** verb with Subject A and Direct Object P, and transforms the clause such that P becomes the subject S of a new clause. The original Subject A can be dropped, making the new clause **intransitive**. Every transitive verb can be passivized using the **particle *kañ*** before the verb.
+
+TODO add example.
+
+#### Antipassive Voice
+
+The [antipassive voice](https://en.wikipedia.org/wiki/Antipassive_voice) is an alteration of **transitive** verbs, which acts very similar to passive voice, except that instead of dropping the Subject A of the transitive clause, the Direct Object P is dropped instead, rendering a new **intransitive** clause that has Subject S as the original Subject A. This is used to emphasize the agent of the action, and is common when the object of the verb can be inferred from context. Every transitive verb can be antipassivized using the **particle *kam*** before the verb.
+
+TODO add example.
+
+#### Causative Voice
+
+The [causative voice](https://en.wikipedia.org/wiki/Causative#Causative_voice) is an alteration which transforms **intransitive** clauses - with only a Subject S and no Object required - into a new **transitive** clause. This new clause now takes the original Subject S as the Object P, and the agent that causes the original subject to undergo the effects of the verb is promoted to the new required Subject A. Most intransitive verbs can be put in the causative voice using the **particle *mo*** before the verb.
+
+TODO add example.
+
+#### Valency Operation Combining
+
+It is possible to concatenate valency-changing operations in order to express a more precise meaning. When this occurs, the particles are applied from right to left in the order of the operations executed, and concatenated into a single word.
+
+TODO add example the soldier slept => she made-sleep the soldier => the soldier was made-sleep   or   => she made-sleep.
+
+### Examples
+
+Below are some examples with [interlineal gloss](https://www.eva.mpg.de/lingua/resources/glossing-rules.php) to illustrate how verbs work:
+
+TODO add examples.

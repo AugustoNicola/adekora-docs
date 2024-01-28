@@ -1,6 +1,6 @@
 # Adèkora Conlang Documentation
 
-Welcome! This is the main page for the documentation of the constructed language Adèkora by Augusto Nicola. In this Wiki I aim to elaborate the basic specification of the conlang in the more useful way possible.
+Welcome! This is the main page for the documentation of the constructed language Adèkora by Augusto Nicola. In this Wiki I aim to elaborate the basic specification of the conlang in the most useful way possible.
 
 ## Basic Description
 
