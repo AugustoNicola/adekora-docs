@@ -88,7 +88,7 @@ The gender of nouns builds [redundancy](https://en.wikipedia.org/wiki/Redundancy
 	</tr>
 	<tr>
 		<td class="header">Indefinite</td>
-		<td>-zhul</td>
+		<td>-zhu</td>
 		<td>-xol</td>
 		<td>-ñol</td>
 		<td>-zhal</td>
@@ -216,7 +216,7 @@ The declensions of Nouns have the following structure:
 	</tr>
 	<tr>
 		<td class="header">Indefinite</td>
-		<td>-zhul</td>
+		<td>-zhu</td>
 		<td>-xol</td>
 		<td>-ñol</td>
 		<td>-zhal</td>
@@ -387,7 +387,6 @@ The Pronouns of Adèkora mark for [Person](https://en.wikipedia.org/wiki/Grammat
 </table>
 
 <table class="common-table">
-<table class="common-table">
 	<tr>
 		<td class="header" colspan="3">Pronoun Plurality Suffixes</td>
 	</tr>
@@ -420,6 +419,7 @@ The Pronouns of Adèkora mark for [Person](https://en.wikipedia.org/wiki/Grammat
 		<td>-chek</td>
 	</tr>
 </table>
+
 
 In this structure, the Pronoun Root specifies the gender and number of the pronoun. Note that there is formality marking exclusively for the animate gender, and that first person pronouns are only defined for the animate gender. Adèkora does not feature [clusivity](https://en.wikipedia.org/wiki/Clusivity), and so the first person plural pronoun is ambiguous, as it can be exclusive or inclusive depending on context.
 
