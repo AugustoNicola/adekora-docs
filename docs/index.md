@@ -21,7 +21,7 @@ What properties I want Adèkora to have:
 - **Complete**; satisfies the minimum level of development required in conlang development (phonology, grammar, etc.).
 - **Easily computable**; that is, its rules are regular enough so that I could create computer-based functionality such as parsing or translation.
 - **Semi-formally defined**; all areas of the language are described in a comprehensible manner that conlangers understand as the standard.
-- **Pretty**; it should follow my personal aesthetics regarding language, specially in writing and phonology.
+- **Pretty**; it should follow my personal aesthetics regarding language, especially in writing and phonology.
 - **Innovative**; there should be features of languages that I as a speaker of Spanish and English am not familiar with
 - **Fairly Useful**; communicating with Adèkora should not be much more difficult than other languages, provided that some level of mastery is achieved.
 - **Basic Lexicon**; a decent chunk of words should be defined in Adèkora's vocabulary.

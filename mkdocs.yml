@@ -19,10 +19,12 @@ nav:
     - 'Punctuation': 'writing/punctuation.md'
     - 'Localizers': 'writing/localizers.md'
     - 'Font': 'writing/font.md'
-  - Grammar:
-    - 'Main Page': 'grammar/main.md'
-    - 'Nouns': 'grammar/nouns.md'
-    - 'Verbs': 'grammar/verbs.md'
+  - Morphology:
+    - 'Main Page': 'morphology/main.md'
+    - 'Nouns': 'morphology/nouns.md'
+    - 'Verbs': 'morphology/verbs.md'
+  - Syntax:
+    - 'Main Page': 'syntax/main.md'
   - Vocabulary:
     - 'Main Page': 'vocabulary/main.md'
   - Resources:
