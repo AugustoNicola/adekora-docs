@@ -1,0 +1,255 @@
+@font-face {
+	font-family: 'adekora';
+	src: url('../fonts/adekora.otf') format('opentype');
+}
+
+ws {
+	font-family: 'adekora';
+	font-size: 2.3rem;
+}
+
+wm {
+	font-family: 'adekora';
+	font-size: 3rem;
+}
+
+wl {
+	font-family: 'adekora';
+	font-size: 3.5rem;
+}
+
+wxl {
+	font-family: 'adekora';
+	font-size: 5rem;
+}
+
+wxxl {
+	font-family: 'adekora';
+	font-size: 8rem;
+}
+
+x {
+	font-weight: normal;
+	color: #0c0c0c;
+	font-family: sans-serif;
+	font-size: 2rem;
+}
+
+.ipa-consonants-table x,
+.ipa-monophthongs-table x,
+.ipa-diphthongs-table x {
+	font-size: 2.75rem;
+}
+
+.ipa-consonants-table tr.headers th {
+	text-align: center;
+	font-size: 1.5rem;
+}
+
+.ipa-consonants-table tr.data th {
+	display: flex;
+	align-items: center;
+	justify-content: start;
+	font-size: 1.5rem;
+}
+
+.ipa-consonants-table tr {
+	display: grid;
+	grid-template-columns: repeat(8, 12.5%);
+}
+
+.ipa-consonants-table tr td {
+	display: grid;
+	column-gap: 1.5rem;
+	grid-template-columns: auto auto;
+	justify-content: center;
+}
+
+
+.ipa-vowel-tables {
+	display: grid;
+	grid-template-columns: 50% 50%;
+	grid-template-rows: auto;
+	gap: 4rem;
+}
+
+.ipa-monophthongs-table tr.headers th {
+	text-align: center;
+	font-size: 1.5rem;
+}
+
+.ipa-monophthongs-table tr {
+	display: flex;
+}
+
+.ipa-monophthongs-table tr td {
+	flex: 1 1 0px;
+}
+
+.ipa-monophthongs-table tr th {
+	flex: 1 1 0px;
+}
+
+
+.ipa-monophthongs-table tr.data th {
+	display: flex;
+	align-items: center;
+	justify-content: start;
+	font-size: 1.5rem;
+}
+
+.ipa-monophthongs-table tr td {
+	display: grid;
+	column-gap: 2.5rem;
+	grid-template-columns: auto auto;
+	justify-content: center;
+}
+
+
+
+
+.ipa-diphthongs-table tr.first-row th {
+	text-align: center;
+	font-size: 1.5rem;
+}
+
+.ipa-diphthongs-table tr {
+	display: flex;
+}
+
+.ipa-diphthongs-table tr td {
+	flex: 1 1 0px;
+}
+
+.ipa-diphthongs-table tr th {
+	flex: 1 1 0px;
+}
+
+
+.ipa-diphthongs-table tr.data th {
+	display: flex;
+	align-items: center;
+	justify-content: start;
+	font-size: 1.5rem;
+}
+
+.ipa-diphthongs-table tr td {
+	display: grid;
+	column-gap: 2.5rem;
+	grid-template-columns: auto auto;
+	justify-content: center;
+}
+
+
+.no-see {
+	visibility: hidden;
+}
+
+.writing-all-characters-table th {
+	display: flex;
+	justify-content: center;
+	align-items: center;
+}
+
+.writing-all-characters-table th x {
+	font-size: 2.75rem;
+}
+
+.writing-all-characters-table tr.headers th {
+	text-align: center;
+	font-size: 1.5rem;
+}
+
+.writing-all-characters-table tr.data th {
+	display: flex;
+	align-items: center;
+	justify-content: start;
+	font-size: 1.5rem;
+}
+
+.writing-all-characters-table tr {
+	display: grid;
+	grid-template-columns: repeat(8, 12.5%);
+}
+
+.writing-all-characters-table tr td {
+	display: grid;
+	column-gap: 1.5rem;
+	grid-template-columns: auto auto;
+	justify-content: center;
+}
+
+.writing-numbering-example-table th {
+	display: flex;
+	justify-content: center;
+	align-items: center;
+}
+
+.writing-numbering-example-table th x {
+	font-size: 2.75rem;
+}
+
+.writing-numbering-example-table tr.headers th {
+	text-align: center;
+	font-size: 1.5rem;
+}
+
+.writing-numbering-example-table tr.data th {
+	display: flex;
+	align-items: center;
+	justify-content: start;
+	font-size: 1.5rem;
+}
+
+.writing-numbering-example-table tr {
+	display: grid;
+	grid-template-columns: repeat(8, 12.5%);
+}
+
+.writing-numbering-example-table tr td {
+	display: grid;
+	column-gap: 1.5rem;
+	grid-template-columns: auto auto;
+	justify-content: center;
+}
+
+.pronouns-table tbody {
+	text-align: center;
+	font-size: 1.75rem;
+}
+
+.pronouns-table .header {
+	font-weight: bold;
+}
+
+.pronouns-table .left {
+	text-align: initial;
+}
+
+.common-table tbody {
+	text-align: center;
+	font-size: 1.75rem;
+}
+
+.common-table .header {
+	font-weight: bold;
+}
+
+.common-table .left {
+	text-align: initial;
+}
+
+.common-table .no-break {
+	white-space: nowrap;
+}
+
+.center {
+	text-align: center;
+}
+
+.showcase {
+	font-weight: 600;
+	font-size: 2rem;
+	margin-top: 2rem;
+	margin-bottom: 2rem;
+}
