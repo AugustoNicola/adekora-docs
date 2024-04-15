@@ -2,112 +2,112 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
     <url>
          <loc>https://example.com/</loc>
-         <lastmod>2024-04-10</lastmod>
+         <lastmod>2024-04-15</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
          <loc>https://example.com/about/</loc>
-         <lastmod>2024-04-10</lastmod>
+         <lastmod>2024-04-15</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
          <loc>https://example.com/morphology/adverbs/</loc>
-         <lastmod>2024-04-10</lastmod>
+         <lastmod>2024-04-15</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
          <loc>https://example.com/morphology/main/</loc>
-         <lastmod>2024-04-10</lastmod>
+         <lastmod>2024-04-15</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
          <loc>https://example.com/morphology/nouns/</loc>
-         <lastmod>2024-04-10</lastmod>
+         <lastmod>2024-04-15</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
          <loc>https://example.com/morphology/verbs/</loc>
-         <lastmod>2024-04-10</lastmod>
+         <lastmod>2024-04-15</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
          <loc>https://example.com/phonology/allophony/</loc>
-         <lastmod>2024-04-10</lastmod>
+         <lastmod>2024-04-15</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
          <loc>https://example.com/phonology/consonants/</loc>
-         <lastmod>2024-04-10</lastmod>
+         <lastmod>2024-04-15</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
          <loc>https://example.com/phonology/intonation/</loc>
-         <lastmod>2024-04-10</lastmod>
+         <lastmod>2024-04-15</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
          <loc>https://example.com/phonology/main/</loc>
-         <lastmod>2024-04-10</lastmod>
+         <lastmod>2024-04-15</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
          <loc>https://example.com/phonology/phonotactics/</loc>
-         <lastmod>2024-04-10</lastmod>
+         <lastmod>2024-04-15</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
          <loc>https://example.com/phonology/vowels/</loc>
-         <lastmod>2024-04-10</lastmod>
+         <lastmod>2024-04-15</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
          <loc>https://example.com/resources/ipa_chart/</loc>
-         <lastmod>2024-04-10</lastmod>
+         <lastmod>2024-04-15</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
          <loc>https://example.com/resources/test/</loc>
-         <lastmod>2024-04-10</lastmod>
+         <lastmod>2024-04-15</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
          <loc>https://example.com/syntax/main/</loc>
-         <lastmod>2024-04-10</lastmod>
+         <lastmod>2024-04-15</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
          <loc>https://example.com/vocabulary/main/</loc>
-         <lastmod>2024-04-10</lastmod>
+         <lastmod>2024-04-15</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
          <loc>https://example.com/writing/font/</loc>
-         <lastmod>2024-04-10</lastmod>
+         <lastmod>2024-04-15</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
          <loc>https://example.com/writing/letters/</loc>
-         <lastmod>2024-04-10</lastmod>
+         <lastmod>2024-04-15</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
          <loc>https://example.com/writing/localizers/</loc>
-         <lastmod>2024-04-10</lastmod>
+         <lastmod>2024-04-15</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
          <loc>https://example.com/writing/main/</loc>
-         <lastmod>2024-04-10</lastmod>
+         <lastmod>2024-04-15</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
          <loc>https://example.com/writing/numbering/</loc>
-         <lastmod>2024-04-10</lastmod>
+         <lastmod>2024-04-15</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
          <loc>https://example.com/writing/punctuation/</loc>
-         <lastmod>2024-04-10</lastmod>
+         <lastmod>2024-04-15</lastmod>
          <changefreq>daily</changefreq>
     </url>
 </urlset>
