@@ -253,3 +253,38 @@ x {
 	margin-top: 2rem;
 	margin-bottom: 2rem;
 }
+
+.trans {
+	margin-bottom: 2rem;
+}
+
+.trans .literal {
+	font-family: 'adekora';
+	font-size: 2.3rem;
+	margin: 0;
+}
+
+.trans .roman {
+	font-family: serif;
+	font-size: 1.8rem;
+	white-space: pre-wrap;
+	margin: 0;
+}
+
+.trans .gloss {
+	font-family: serif;
+	font-size: 1.8rem;
+	color: #676767;
+	white-space: pre-wrap;
+	margin: 0;
+}
+
+.trans .meaning {
+	font-family: 'Ink Free';
+	font-size: 2rem;
+	margin: 0;
+}
+
+.trans emph {
+	font-weight: bold;
+}
