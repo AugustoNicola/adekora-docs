@@ -60,7 +60,7 @@ The [Gender System](https://en.wikipedia.org/wiki/Grammatical_gender) of Adèkor
 
 Unlike some languages with gender that make an arbitrary classification, Adèkora's genders attempt to categorize the entire noun space in a methodical manner.
 
-The gender of nouns builds [redundancy](https://en.wikipedia.org/wiki/Redundancy_(linguistics)) into the grammar, which can help with effective communication. Gender is marked via [**adjective agreement**](./adjectives.md), **[noun articles](./nouns.md#noun-articles)** and noun agreement via [definiteness](nouns.md#definiteness). 
+The gender of nouns builds [redundancy](https://en.wikipedia.org/wiki/Redundancy_(linguistics)) into the grammar, which can help with effective communication. Gender is marked via [**adjective agreement**](./main.md#adjectives), **[noun articles](./nouns.md#noun-articles)** and noun agreement via [definiteness](nouns.md#definiteness). 
 
 ### Definiteness
 
