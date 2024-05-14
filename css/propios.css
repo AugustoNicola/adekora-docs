@@ -256,6 +256,8 @@ x {
 
 .trans {
 	margin-bottom: 2rem;
+	padding-left: 1rem;
+	background-color: #f1f1f1;
 }
 
 .trans .literal {
