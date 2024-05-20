@@ -39,12 +39,13 @@ For common phrases in which there is no ambiguity of the clause that is negated,
 </div>
 
 <div class="trans">
-	<p class="literal">du pi'roi do'mè'xen'zhon ku</p>
-	<p class="roman">du-Ø              piroi-Ø-Ø          Ø-domè-xen-zhon    <emph>ku</emph></p>
+	<p class="literal">dei pi'roi do'mè'xen'zhon ku</p>
+	<p class="roman">dei-Ø              piroi-Ø-Ø          Ø-domè-xen-zhon    <emph>ku</emph></p>
 	<p class="gloss">G_NA-ABS  rabbit-DEF-SG  IND-sleep-FUT-SP  <emph>NEG</emph></p>
 	<p class="meaning">The rabbit will <emph>not</emph> sleep.</p>
 </div>
 
+### Phrasal Negation
 
 The usage of both particles is especially useful in sentences where there are multiple elements being negated, in order to disambiguate. Compare the following examples:
 
@@ -83,17 +84,11 @@ The usage of both particles is especially useful in sentences where there are mu
 </div>
 
 
-### Phrasal Negation
-
-"I dont see the pencils" => "I LAU see pencil(s?) KU
-vs
-"I see no pencils" => "I see LAU pencil(s?) KU
-				 
-
 ### Double Negation
 
-"I dont see nothing" => "I LAU see anything KUN" or "I see NEG-anything"
-"It is false that I see nothing, I DO see something" => "I LAU see NEG-anything KUN
+"I dont see nothing" => "I LAU see anything KUN" or "I see nothing"
+"It is false that I see nothing, I DO see something" => "I LAU see nothing KUN
+"You're not going anywhere => You LAU going anywhere KU"
 
 ### Pluralization of Negation
 
@@ -142,17 +137,12 @@ Relative pronoun are only dependent on the case of the noun phrase, with one pro
 
 Relative clauses can appear in many parts of speech: in the subject (Ergative, Accusative and Genitive noun phrases), direct object and indirect object,  These pronouns allow the relative clauses to convey many meanings. Some examples are listed below.
 
-#### Base Main Clause Example
-
 <div class="trans">
 	<p class="literal">dei'lo don'ma'kem ni'pa'le dei ki'kon</p>
 	<p class="roman">dei-lo             donmakem-Ø-Ø     Ø-nipale-Ø-Ø                     dei-Ø             kikon-Ø-Ø</p>
 	<p class="gloss">G_AN-ERG  governor-DEF-SG  IND-observe-PRS-CONT  G_AN-ABS  miner-DEF-SG  </p>
 	<p class="meaning">The governor is looking at the miner.</p>
 </div>
-
-#### Ergative Relative Clause Example
-
 
 <div class="trans">
 	<p class="literal">dei'lo don'ma'kem kzhà bai'kel'zham'zhon dei mo're <br /> ni'pa'le dei ki'kon</p>
@@ -163,8 +153,6 @@ Relative clauses can appear in many parts of speech: in the subject (Ergative, A
 	<p class="meaning">The governor <emph>who calmed the dog</emph> is looking at the miner.</p>
 </div>
 
-#### Absolutive Relative Clause Example
-
 <div class="trans">
 	<p class="literal">dei'lo mo're dei'lo don'ma'kem bai'kel'zham'zhon kei'lo <br /> ni'pa'le dei ki'kon</p>
 	<p class="roman">dei-lo             more-Ø-Ø     <emph>dei-lo            donmakem-Ø-Ø      Ø-baikel-zham-zhon keilo</emph> </p>
@@ -173,8 +161,6 @@ Relative clauses can appear in many parts of speech: in the subject (Ergative, A
 	<p class="gloss">IND-observe-PRS-CONT  G_AN-ABS  miner-DEF-SG</p>
 	<p class="meaning">The dog <emph>that the governor calmed</emph> is looking at the miner</p>
 </div>
-
-#### Genitive Relative Clause Example
 
 <div class="trans">
 	<p class="literal">dei don'ma'kem i'kei'lo na'kà'mi'zham'zhon<br />dei mo're ke'xei'che bà'da'bau</p>
@@ -185,8 +171,6 @@ Relative clauses can appear in many parts of speech: in the subject (Ergative, A
 	<p class="meaning">The governor <emph>whose dog I loved</emph> is getting bored.</p>
 </div>
 
-#### Dative Relative Clause Example 
-
 <div class="trans">
 	<p class="literal">dei don'ma'kem i'kei'lo dau'zham'zhon <br />dem xol'ñol'pal ke'kei'cho bà'da'bau</p>
 	<p class="roman">dei-Ø            donmakem-Ø-Ø      <emph>ikei-Ø-lo                   Ø-dau-zham-zhon</emph></p>
@@ -196,8 +180,6 @@ Relative clauses can appear in many parts of speech: in the subject (Ergative, A
 	<p class="meaning">The governor <emph>to whom I lent some books</emph> is getting bored.</p>
 </div>
 
-#### Locative Relative Clause Example 
-
 <div class="trans">
 	<p class="literal">mi xol'zal ki'dà'chek i'kei'lo dà'men'zham'zhon<br />zhi'ek kom'bem'men'zhon</p>
 	<p class="roman">mi-Ø             xolzal-Ø-Ø          <emph>kidàchek    ikei-Ø-lo                  Ø-dàmen-zham-zhon</emph></p>
@@ -206,6 +188,3 @@ Relative clauses can appear in many parts of speech: in the subject (Ergative, A
 	<p class="gloss"><emph>G_AN.2-SG-ABS</emph>  IND-improve-FUT-SP</p>
 	<p class="meaning">The library <emph>in which I met you</emph> will thrive.</p>
 </div>
-
-
-

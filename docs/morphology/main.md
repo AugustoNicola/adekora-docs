@@ -70,7 +70,21 @@ Adèkora's adjectives are placed **after the noun phrases** they describe, and d
 	</tr>
 </table>
 
-TODO add example.
+<div class="trans">
+	<p class="literal">dei ka'lop oi'rrel xu'pi'zham'zhon</p>
+	<p class="roman">dei-Ø             <emph>kalop-Ø-Ø        oiŕel-Ø</emph>        Ø-xupi-zham-zhon</p>
+	<p class="gloss">G_AN-ABS  <emph>horse-DEF-SG  brown-SG</emph>  IND-fell-PST.G_AN-SP</p>
+	<p class="meaning">The <emph>brown horse</emph> fell.</p>
+</div>
+
+<div class="trans">
+	<p class="literal">dei ka'lo'pal oi'rrel'zhei xu'pi'zham'zhon</p>
+	<p class="roman">dei-Ø             <emph>kalo-Ø-pal        oiŕel-zhei</emph>               Ø-xupi-zham-zhon</p>
+	<p class="gloss">G_AN-ABS  <emph>horse-DEF-PL  brown-G_AN.PL</emph>  IND-fell-PST.G_AN-SP</p>
+	<p class="meaning">The <emph>brown horses</emph> fell.</p>
+</div>
+
+TODO revisar consonant repetition! kalop => kalopal
 
 ### General Order
 
@@ -135,3 +149,116 @@ Since Adèkora heavily relies on affixes to morphologically mark many aspects ac
 Adèkora uses this affix system to create both inflections and derivations; that is, some affixes transform a word from one class into another word from the same class, whereas other affixes create words from a different grammatical class than the original (moreover, there exist affixes that have the precise intention of adapting a concept into a particular word class, such as the noun-generator prefix *chi-*).
 
 The many affixes of Adèkora are documented in the [Vocabulary Section](../vocabulary/main.md), with information on the type of affix, particular considerations, etc.
+
+
+## Location
+
+Prepositions that handle spatial information are divided into three categories:
+
+- **Relative** spatial prepositions, which specify the spatial relation between objects.
+- **Adjacent** spatial prepositions, which are a particularization of Relative prepositions that add the meaning of very close proximity, adjacency, or some other similar specialization.
+- **Directional** spatial prepositions, which characterize some direction of movement.
+
+All spatial prepositions are created by adding the corresponding prefix of its type to a root word (usually associated with location). Many of these prepositions have a similar correspondence in English and other common languages; the table below shows all three spatial preposition type prefixes, as well as a short approximation of its meaning. For a more complete explanation of every preposition as well as special uses, look into their definitions in the [Vocabulary section](../vocabulary/main.md).
+
+<table class="common-table">
+	<tr>
+		<td class="header" colspan="4">Location Prepositions, Prefixes and Roots</td>
+	</tr>
+	<tr>
+		<td class="header">Root</td>
+		<td class="header">Relative</td>
+		<td class="header">Adjacent</td>
+		<td class="header">Directional</td>
+	</tr>
+	<tr>
+		<td class="header"></td>
+		<td class="header">ñe-</td>
+		<td class="header">zho-</td>
+		<td class="header">leu-</td>
+	</tr>
+	<tr>
+		<td>àkiz</td>
+		<td>above</td>
+		<td>on top (touching)</td>
+		<td>upwards</td>
+	</tr>
+	<tr>
+		<td>boza</td>
+		<td>below</td>
+		<td>under (touching)</td>
+		<td>downwards</td>
+	</tr>
+	<tr>
+		<td>ipi</td>
+		<td>left</td>
+		<td>left (touching)</td>
+		<td>leftwards</td>
+	</tr>
+	<tr>
+		<td>lupar</td>
+		<td>right</td>
+		<td>right (touching)</td>
+		<td>rightwards</td>
+	</tr>
+	<tr>
+		<td>kol</td>
+		<td>among</td>
+		<td>< managed by Locative Case ></td>
+		<td>across</td>
+	</tr>
+	<tr>
+		<td>bum</td>
+		<td>outside</td>
+		<td>on the surface</td>
+		<td>around</td>
+	</tr>
+	<tr>
+		<td>kère</td>
+		<td>in front of</td>
+		<td>front (touching)</td>
+		<td>towards (general direction)</td>
+	</tr>
+	<tr>
+		<td>∅ (kèrai)</td>
+		<td>∅</td>
+		<td>∅</td>
+		<td>towards (sth specifically)</td>
+	</tr>
+	<tr>
+		<td>∅</td>
+		<td>between</td>
+  		<td>∅</td>
+		<td>in between</td>
+	</tr>
+	<tr>
+		<td>∅</td>
+		<td>parallel to</td>
+		<td>parallel to (while touching)</td>
+		<td>alongside</td>
+	</tr>
+	<tr>
+		<td>∅</td>
+		<td>beyond</td>
+		<td>behind</td>
+		<td>away from</td>
+	</tr>
+	<tr>
+		<td>pol</td>
+		<td>near (visible)</td>
+		<td>aside (touching)</td>
+		<td>∅</td>
+	</tr>
+	<tr>
+		<td>∅</td>
+		<td>near (invisible)</td>
+		<td>emotionally/conceptually close</td>
+		<td>∅</td>
+	</tr>
+	<tr>
+		<td>∅</td>
+		<td>far</td>
+		<td>weakly reminiscent</td>
+		<td>∅</td>
+	</tr>
+</table>
