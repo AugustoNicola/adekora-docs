@@ -159,7 +159,7 @@ Prepositions that handle spatial information are divided into three categories:
 - **Adjacent** spatial prepositions, which are a particularization of Relative prepositions that add the meaning of very close proximity, adjacency, or some other similar specialization.
 - **Directional** spatial prepositions, which characterize some direction of movement.
 
-All spatial prepositions are created by adding the corresponding prefix of its type to a root word (usually associated with location). Many of these prepositions have a similar correspondence in English and other common languages; the table below shows all three spatial preposition type prefixes, as well as a short approximation of its meaning. For a more complete explanation of every preposition as well as special uses, look into their definitions in the [Vocabulary section](../vocabulary/main.md).
+All Locative Prepositions are created by adding the corresponding prefix of its type to a root word (usually associated with location). Many of these prepositions have a similar correspondence in English and other common languages; the table below shows all three spatial preposition type prefixes, as well as a short approximation of their meaning for each combination with the roots. For a more complete explanation of every preposition, as well as special use cases, look into their definitions in the [Vocabulary section](../vocabulary/main.md).
 
 <table class="common-table">
 	<tr>
@@ -204,11 +204,11 @@ All spatial prepositions are created by adding the corresponding prefix of its t
 	<tr>
 		<td>kol</td>
 		<td>among</td>
-		<td>< managed by Locative Case ></td>
+		<td>inside</td>
 		<td>across</td>
 	</tr>
 	<tr>
-		<td>bum</td>
+		<td>bumu</td>
 		<td>outside</td>
 		<td>on the surface</td>
 		<td>around</td>
@@ -220,45 +220,50 @@ All spatial prepositions are created by adding the corresponding prefix of its t
 		<td>towards (general direction)</td>
 	</tr>
 	<tr>
-		<td>∅ (kèrai)</td>
+		<td>kèrai</td>
 		<td>∅</td>
 		<td>∅</td>
 		<td>towards (sth specifically)</td>
 	</tr>
 	<tr>
-		<td>∅</td>
+		<td>piña</td>
 		<td>between</td>
   		<td>∅</td>
 		<td>in between</td>
 	</tr>
 	<tr>
-		<td>∅</td>
+		<td>dalme</td>
 		<td>parallel to</td>
 		<td>parallel to (while touching)</td>
 		<td>alongside</td>
 	</tr>
 	<tr>
-		<td>∅</td>
+		<td>zeni</td>
 		<td>beyond</td>
 		<td>behind</td>
 		<td>away from</td>
 	</tr>
 	<tr>
-		<td>pol</td>
+		<td>doki</td>
 		<td>near (visible)</td>
 		<td>aside (touching)</td>
 		<td>∅</td>
 	</tr>
 	<tr>
-		<td>∅</td>
+		<td>balkem</td>
 		<td>near (invisible)</td>
 		<td>emotionally/conceptually close</td>
 		<td>∅</td>
 	</tr>
 	<tr>
-		<td>∅</td>
+		<td>ziñel</td>
 		<td>far</td>
 		<td>weakly reminiscent</td>
 		<td>∅</td>
 	</tr>
 </table>
+
+The Locative Prepositions are mainly used together with noun phrases to form Locative Clauses, which add the associated locative meaning to a sentence. Whenever a noun phrase is part of a Locative Clause, it is inflected using the [Locative Case](nouns.md#locative-case), to show accordance with the Locative Preposition. 
+
+The Locative Case can also be used to form a Locative Clause without any Locative Pronoun, which has a very broad sense of location similar to English's *in/on/at* prepositions.
+
