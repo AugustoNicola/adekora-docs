@@ -12,7 +12,7 @@ The phonology of Adèkora consists of **14 consonants**, **7 monophthongs** and 
 		<th>Labiodental</th>
 		<th>Dental</th>
 		<th>Alveolar</th>
-		<th>Postlveolar</th>
+		<th>Postalveolar</th>
 		<th>Palatal</th>
 		<th>Velar</th>
 	</tr>
@@ -168,7 +168,7 @@ The following is a proposed romanization system for Adèkora:
 		<th>Labiodental</th>
 		<th>Dental</th>
 		<th>Alveolar</th>
-		<th>Postlveolar</th>
+		<th>Postalveolar</th>
 		<th>Palatal</th>
 		<th>Velar</th>
 	</tr>

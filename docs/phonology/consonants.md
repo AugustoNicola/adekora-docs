@@ -11,7 +11,7 @@ Adèkora has the following 14 consonants:
 		<th>Labiodental</th>
 		<th>Dental</th>
 		<th>Alveolar</th>
-		<th>Postlveolar</th>
+		<th>Postalveolar</th>
 		<th>Palatal</th>
 		<th>Velar</th>
 	</tr>
